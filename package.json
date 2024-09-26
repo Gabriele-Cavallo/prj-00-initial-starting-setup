@@ -14,7 +14,8 @@
   "author": "Maximilian Schwarzmüller",
   "license": "ISC",
   "devDependencies": {
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.5.4",
+    "undici-types": "^6.19.8"
   },
   "dependencies": {
     "typescript": "^5.6.2"
